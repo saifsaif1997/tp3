@@ -1,0 +1,92 @@
+body
+{
+    background : rgb(217, 240, 248);
+}
+
+.titre1 
+{
+    text-align: center ; 
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.div1 
+{
+    text-align: center  ; 
+}
+.image1
+{
+ border: 2px solid;
+ 
+}
+.div0
+{
+    
+    padding: 2%;
+    line-height: 70%;
+    width: 50%;
+    margin: 0 auto;
+}
+.div2
+{
+
+    padding: 2%;
+    line-height: 120%;
+    width: 50%;
+    margin: 0 auto;
+}
+.para1
+{
+    line-height: 120%;
+    font-family:Verdana;
+    font-style: oblique;
+
+}
+.ul1
+{
+    line-height: 150%;
+
+}
+.legend
+{
+    text-align: right;
+}
+.ul2
+{
+    line-height: 150%;
+
+}
+.span1
+
+{
+    width: 18%;
+    height: 13px;
+    background-color: blue ;
+    border-radius:  20px;
+}
+.span2
+
+{
+    
+    width: 12%;
+    height: 13px;
+    background-color: blue ;
+    border-radius:  20px;
+}
+.span3
+{
+    
+    width: 20;
+    height: 13px;
+    background-color:lightblue ;
+    border-radius:  20px;
+    border: bold;
+}
+h3
+{
+    background: linear-gradient(to right,#36ecde,rgb(255, 255, 255));
+
+}
+.liobj
+{
+    letter-spacing: 5px;
+    font-weight: bold;
+}
